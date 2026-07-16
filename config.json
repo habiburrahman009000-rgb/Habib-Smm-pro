@@ -1,0 +1,31 @@
+{
+  "bot_token": "8837664705:AAH3fFBMMYuDyR_ymCeTPneCy3ZGKAuSR5c",
+  "admin_id": 7884194046,
+  "admin_set": false,
+  "smm_panel_url": "",
+  "smm_api_key": "",
+  "points_per_reaction": 10,
+  "points_per_view": 100,
+  "points_per_member": 1,
+  "points_per_referral": 25,
+  "daily_bonus_points": 10,
+  "service_id_reactions": 476,
+  "service_id_views": 500,
+  "service_id_members": 470,
+  "logs_channel": "-1004477501629",
+  "channels": [
+    {
+      "name": "\ud83c\udf3a MAIN",
+      "username": "Mr king👑 paribar",
+      "url": "https://t.me/Mr_King_Paribar"
+    },
+    {
+      "name": "\ud83e\udd16 JOIN",
+      "username": "-1004477501629",
+      "url": "https://t.me/Mr_Monirul_Community"
+    }
+  ],
+  "qr_code_url": "@Tra_der_habib",
+  "payment_contact": "@Tra_der_habib",
+  "bot_username": "@Habib_smm_pro_bot"
+}
