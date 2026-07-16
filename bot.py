@@ -15,7 +15,7 @@ DEFAULT_CONFIG = {
     "admin_id":           7884194046,
     "admin_set":          False,
     "smm_panel_url":      "https://abirsmmpanel.xyz/api/v2",
-    "smm_api_key":        "",
+    "smm_api_key":        "e4fbaa9dda7cd2fe1235f0be7032fc52",
 
     # Rates
     "points_per_reaction": 10,
